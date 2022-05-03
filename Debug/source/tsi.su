@@ -1,0 +1,2 @@
+tsi.c:16:6:TSI_Init	8	static
+tsi.c:45:6:TSI_Detect	16	static

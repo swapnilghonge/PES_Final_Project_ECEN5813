@@ -1,0 +1,8 @@
+i2c.c:32:6:I2C_init	8	static
+i2c.c:56:6:I2C_busy	8	static
+i2c.c:96:6:I2C_wait	16	static
+i2c.c:113:6:I2C_start	8	static
+i2c.c:127:6:I2C_read_setup	16	static
+i2c.c:144:9:I2C_repeated_read	24	static
+i2c.c:174:9:I2C_read_byte	32	static
+i2c.c:210:6:I2C_write_byte	24	static

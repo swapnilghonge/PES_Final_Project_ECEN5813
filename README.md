@@ -15,3 +15,6 @@
 4. Initialization of LCD is done by going through the datasheets.
 5. Systick is used to get the delay
 6. A demo video is also uploaded for your reference, to demonstrate the proof of concept.
+
+# FlowChart
+![image](https://user-images.githubusercontent.com/36632481/166404060-08732773-b8ac-4b58-a754-8e3f5820c590.png)
